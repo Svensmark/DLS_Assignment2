@@ -3,7 +3,6 @@
 ### Developed by Emil Svensmark & Emil Skovbo
 
 
-[![Build Status](https://travis-ci.org/asgerhs/CA-3.svg?branch=master)](https://travis-ci.org/asgerhs/CA-3)
 
   
 # -
@@ -11,6 +10,7 @@
 # CA-3 - StartProject for other projects
 
   
+[![Build Status](https://travis-ci.org/asgerhs/CA-3.svg?branch=master)](https://travis-ci.org/asgerhs/CA-3)
 
 #### Asignment: [CA3 QuickStart Project](https://github.com/asgerhs/CA-3/blob/Developer/CA3-QuickStart-project.pdf)
  
