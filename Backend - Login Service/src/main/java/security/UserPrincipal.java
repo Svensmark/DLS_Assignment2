@@ -19,10 +19,11 @@ public class UserPrincipal implements Principal {
         this.id = user.getId();
     }
 
-    public UserPrincipal(String username, String[] roles) {
+    public UserPrincipal(String username, String[] roles, int id) {
         super();
         this.username = username;
         this.roles = Arrays.asList(roles);
+        this.id = id;
     }
 
     @Override
@@ -41,5 +42,11 @@ public class UserPrincipal implements Principal {
     public int getId() {
         return id;
     }
+
+    public String getUsername() {
+        return username;
+    }
+    
+    
 
 }
